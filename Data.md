@@ -20,14 +20,6 @@ IEEE主要为电子电气方面、RSC主要是化学领域、ACS美国化学学�
 
 ##### 其它
 
-### 作图相关网站 ###
-
-plot添加样式:https://blog.csdn.net/qq_36770392/article/details/104420017
-
-
-
-### 其他数据库 ###
-
 谷歌学术：https://scholar.google.com/
 
 百度学术：https://xueshu.baidu.com/
@@ -35,6 +27,10 @@ plot添加样式:https://blog.csdn.net/qq_36770392/article/details/104420017
 ScienceDirect：https://www.sciencedirect.com/
 
 PubMed(医学为主)：https://pubmed.ncbi.nlm.nih.gov/ 
+
+### 作图相关网站 ###
+
+plot添加样式:https://blog.csdn.net/qq_36770392/article/details/104420017
 
 ### 开放数据库
 
