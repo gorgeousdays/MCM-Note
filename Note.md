@@ -29,3 +29,10 @@ $k$    number2
 10.拒接纯粹的主观的语文建模，加上**引用**和图片
 
 11.假设之后可以给一小段分析，关于假设合理的原因或者假设在本文的应用
+
+12.表明结果在表几图几  采用`\ref{tb:notation}`括号内为表或者图的`label` 如果是公式几也是采用`\ref{}` 关于公式的几种格式
+
+* The EBR is defined as the ratio of EBQ and EBC, which is shown as Eq.3. 
+* so we have equation 1:
+
+13.参考文献用`\cite{1}`实现
