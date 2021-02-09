@@ -4,15 +4,11 @@
 
 ***
 
-##### ZJUT账号登录访问资源
+##### 图书馆账号登录访问
 
-校外IP访问**中国知网、万方、Elsevier SD、IEEE、Springer、RSC、EBSCO、Scopus、Web of Science平台、IOP、Emerald、ACS、维普、PQDT学位论文库**参考以下链接：
+校外IP访问**中国知网、万方、Elsevier SD、IEEE、Springer、RSC、EBSCO、Scopus、Web of Science平台、IOP、Emerald、ACS、维普、PQDT学位论文库**
 
-https://mp.weixin.qq.com/s/RvLP0CrFkvnBNkMMmjMnVg
-
-https://mp.weixin.qq.com/s/p8kOSivl-4-VBLyI0adVpA
-
-https://mp.weixin.qq.com/s/bW70aauprf9GAhV99D_EdA
+在登录处选择机构登录选学校，学号密码登录即可
 
 IEEE主要为电子电气方面、RSC主要是化学领域、ACS美国化学学会
 
