@@ -24,9 +24,6 @@ ScienceDirect：https://www.sciencedirect.com/
 
 PubMed(医学为主)：https://pubmed.ncbi.nlm.nih.gov/ 
 
-### 作图相关网站 ###
-
-plot添加样式:https://blog.csdn.net/qq_36770392/article/details/104420017
 
 ### 开放数据库
 
@@ -133,3 +130,8 @@ http://www.esri.cao.go.jp 日本社会经济研究所
 ##### 澳大利亚
 
 http://www.abs.gov.au 澳大利亚统计局
+### 源码
+http://www.codesoso.com
+https://demonstrations.wolfram.com/index.html
+https://www.wolframalpha.com/
+http://www.pudn.com/
